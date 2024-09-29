@@ -39,6 +39,11 @@ Value in the gene_count.txt
 ## Problem 3
 ### Run prodigal on all of the genomes
 
+```bash
+
+
+```
+
 
 ## Problem 4
 ### Annotate all genomes using prokka instead of prodigal.
