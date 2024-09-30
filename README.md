@@ -19,7 +19,7 @@ Number of bases in the open reading frame: 93
 
 
 ## Problem 2
-### Runprodigal on one of the genomes you have previously downloaded (ecoli.fna)
+### Run prodigal on one of the genomes you have previously downloaded (ecoli.fna)
 
 Copy the ecoli file from root terminal
 ```bash
