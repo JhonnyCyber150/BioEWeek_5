@@ -105,5 +105,3 @@ aaeA_2
 
 aaeB
 
-
-## Problem 6
