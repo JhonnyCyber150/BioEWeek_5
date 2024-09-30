@@ -52,7 +52,7 @@ sbatch Prodigal_Problem3.sh
 ```
 OUTPUT: prodigal_results.txt
 
-A file that contains the sequence the genome with the highest number of genes
+A file that contains the genome with the highest number of genes
 
 
 
