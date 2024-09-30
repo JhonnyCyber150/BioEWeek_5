@@ -73,8 +73,13 @@ nano Prokka_Problem4.sh
 
 Make executable and run it 
 ```bash
-
+chmod +x prokka_Problem4.sh
+sbatch prokka_Problem4.sh
 ```
+
+OUTPUT: cds_counts.txt
+
+This file is into a new directory called prokka_output
 
 ## Problem 5
 
