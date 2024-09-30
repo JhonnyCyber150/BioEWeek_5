@@ -82,6 +82,28 @@ OUTPUT: cds_counts.txt
 This file is into a new directory called prokka_output
 
 ## Problem 5
+### Extract and list all unique gene names annotated by Prokka using shell commands
+
+Shell commands 
+```bash
+grep -h "gene=" /home/caichoj/BioEWeek_5/prokka_output/*/*.gff | sed 's/.*gene=//; s/;.*//' | sort -u > unique_gene_names.txt
+
+head -n 5 unique_gene_names.txt
+```
+
+OUTPUT:
+
+[caichoj@login509-02-r BioEWeek_5]$ head -n 5 unique_gene_names.txt
+
+aaaT
+
+aaeA
+
+aaeA_1
+
+aaeA_2
+
+aaeB
 
 
 ## Problem 6
