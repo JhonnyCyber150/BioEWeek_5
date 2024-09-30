@@ -59,8 +59,20 @@ A file that contains the sequence the genome with the highest number of genes
 ## Problem 4
 ### Annotate all genomes using prokka instead of prodigal.
 
-```bash
+Install/load the module 
 
+```bash
+module load prokka
+```
+Create .sh and code
+
+```bash
+touch Prokka_Problem4.sh
+nano Prokka_Problem4.sh
+```
+
+Make executable and run it 
+```bash
 
 ```
 
