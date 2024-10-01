@@ -106,3 +106,6 @@ aaeA_2
 aaeB
 ```
 
+# Save on git repository 
+git push -u origin main 
+
