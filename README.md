@@ -3,9 +3,8 @@
 ### Initialize git repository
 
     git init
-    git remote add origin (https://github.com/JhonnyCyber150/BioEWeek_4.git)
+    git remote add origin https://github.com/JhonnyCyber150/BioEWeek_5.git
     git branch -m master main
-
 
 ## Problem 1
 ### Amino Acid Sequence Count
