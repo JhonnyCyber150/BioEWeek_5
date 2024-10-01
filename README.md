@@ -38,7 +38,7 @@ Value in the **gene_count.txt**
 
 --- 
 ## Problem 3
-### Run prodigal on all of the genomes creating a .sh script
+### Run prodigal on all of the genomes creating a .sh script and find which genome has the highest number of genes
 
 Create a **.sh** file and code 
 
